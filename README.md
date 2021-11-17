@@ -1,0 +1,20 @@
+## Things I have done
+- Create an index.html 
+- Add Vue.JS script CDN to index.html
+- Create an app.js
+- link app.js & index.html
+- Create a Vue Instance in app.js
+- Show msg from Vue on Vue instance 
+- Link Styles
+- Create ToDO form
+- Call a func when form is submitted
+- String property to store input
+- Real-time Data change  
+- Create an Array to hold Todo data
+- Push new Todos to the array with "Done" property as "false"
+- Show the Todos in a list
+- Clear out the form on every data entered
+- Check "Done" to mark todo as done
+- Strike todo if "Done"
+- Button to Delete Todo
+- "Mark all as Done" Button
